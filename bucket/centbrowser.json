@@ -1,0 +1,35 @@
+{
+    "homepage": "https://www.centbrowser.com/",
+    "description": "The Most Feature Rich Chromium",
+    "version": "4.3.9.227",
+    "license": "Freeware",
+    "architecture": {
+        "64bit": {
+            "url": "http://static.centbrowser.cn/win_stable/4.3.9.227/centbrowser_4.3.9.227_x64_portable.exe#/dl.7z"
+        },
+        "32bit": {
+            "url": "http://static.centbrowser.cn/win_stable/4.3.9.227/centbrowser_4.3.9.227_portable.exe#/dl.7z"
+        }
+    },
+    "shortcuts": [
+        [
+            "chrome.exe",
+            "Cent Browser"
+        ]
+    ],
+    "persist": "User Data",
+    "checkver": {
+        "url": "http://www.centbrowser.cn/history.html",
+        "re": "<p id=\"[\\d.]+\">v([\\d.]+)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "http://static.centbrowser.cn/win_stable/4.3.9.227/centbrowser_$version_x64_portable.exe#/dl.7z"
+            },
+            "32bit": {
+                "url": "http://static.centbrowser.cn/win_stable/4.3.9.227/centbrowser_$version_portable.exe#/dl.7z"
+            }
+        }
+    }
+}
