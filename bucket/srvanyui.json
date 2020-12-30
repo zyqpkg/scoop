@@ -1,7 +1,7 @@
 {
     "description": "SrvanyUI服务管理工具",
     "version": "v1.0.0.1",
-    "url": "https://media.githubusercontent.com/media/zyqstore/scoop/main/sscap.zip",
+    "url": "https://gitee.com/zouyq/scoop/raw/master/srvanyui.zip",
     "hash": "42b66f17c56e0a4f2eb0627f1c0a491696a62854",
     "extract_dir": "srvanyui",
     "bin": "srvanyui.exe"
