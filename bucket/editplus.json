@@ -2,7 +2,7 @@
     "description": "editplus",
     "version": "v5.3.0.3278",
     "url": "https://gitee.com/zouyq/scoop/raw/master/editplus.zip",
-    "hash": "356C0C989CEB9F0F91F8F57D0F6A203DFE459822529A3003BBE0EF19DA718E05",
+    "hash": "bc2f0e533f3590cde2f95ac0c59dccf6c93f98ce794b6895fb1f26eb10cd627e",
     "extract_dir": "EditPlus",
     "bin": "EditPlus.exe"
 }
