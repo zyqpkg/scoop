@@ -1,7 +1,7 @@
 {
     "description": "editplus",
     "version": "v5.3.0.3278",
-    "url": "https://gitee.com/zouyq/scoop/raw/master/editplus.zip",
+    "url": "https://raw.githubusercontent.com/zyqstore/scoop/main/editplus.zip",
     "extract_dir": "EditPlus",
     "bin": "EditPlus.exe"
 }
