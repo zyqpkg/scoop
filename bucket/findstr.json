@@ -1,0 +1,7 @@
+{
+    "description": "findstr",
+    "version": "1.0",
+    "url": "https://media.githubusercontent.com/media/zyqstore/scoop/main/findstr.zip",
+    "extract_dir": "findstr",
+    "bin": "findstr"
+}
